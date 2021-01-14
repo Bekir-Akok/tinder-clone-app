@@ -9,12 +9,13 @@
     border-radius: 20px;
     background-size: cover ;
     background-position: top;
+    z-index: -1;
 }
 
 .tinderCards-cardContainer{
     display: flex;
     justify-content: center;
-    margin-top: 10vh;
+    margin-top: 8vh;
 }
 
 .cardContent{
@@ -37,6 +38,15 @@
     .card {
         width: 600px;
         border-radius: 0;
+        height: 101vh;
+        box-shadow: none;
+        top: 13%;
+        transform: translate(0% , -13%);
+        left: 0;
+        position: relative;
+    }
+    .tinderCards-cardContainer{
+        margin: 0;
     }
 }
 @media screen and (max-width:550px) {

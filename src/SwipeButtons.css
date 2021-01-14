@@ -4,6 +4,7 @@
     position: fixed;
     width: 100%;
     justify-content: space-evenly;
+    margin-top: 20px;
 }
 
 .swipeButtons .MuiIconButton-root {
