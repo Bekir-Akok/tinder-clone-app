@@ -1,3 +1,11 @@
+# <a href="https://tinder-clone-app-a7ab7.firebaseapp.com/">Link</a>
+## Neler Kullandım/Öğrendim ? 
+### --MongoDB
+### --Firebase
+### --Heroku
+### --Axios
+### --Material-UI
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
